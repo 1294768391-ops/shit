@@ -1,0 +1,153 @@
+# 1. Bibliographic Information
+## 1.1. Title
+The central topic of the paper is the spread of traditional Chinese culture and innovative myth narrative logic in the hit domestic Chinese animated film *Ne Zha: The Devil Child Roars the Sea* (Chinese: 《哪吒之魔童闹海》). The paper specifically analyzes how the work integrates traditional cultural elements into its audio-visual design, reconstructs traditional myth narratives to fit modern values, and explores the mutual promotion mechanism between audio-visual presentation, myth narrative, and cultural transmission.
+## 1.2. Authors
+The sole author is Wang Yajie, affiliated with the School of Humanities, Chang'an University, a key public comprehensive university in China. The author’s research focuses on audio-visual communication, traditional cultural inheritance, and film and television industry studies.
+## 1.3. Journal/Conference
+The paper is published in *Radio & TV Journal* (Chinese: 《视听》, CNKI serial number: 1674-246X), a widely recognized, peer-reviewed Chinese journal in the field of media studies, film and television communication, and animation research. It targets both academic researchers and industry practitioners, and has a strong influence in the domestic Chinese cultural and media research community.
+## 1.4. Publication Year
+The paper is published in the 9th issue of *Radio & TV Journal* in 2025, as indicated by its DOI suffix: 10.19395/j.cnki.1674-246x.2025.09.002.
+## 1.5. Abstract
+The research objective of the paper is to explore feasible paths for the modern, effective spread of traditional Chinese culture via domestic animated works, using *Ne Zha: The Devil Child Roars the Sea* as a typical case. The core methodology is qualitative case analysis, which deconstructs the film’s audio-visual design (including visual cultural symbols, folk music, dialect dubbing, etc.) and narrative structure layer by layer. The main results show that the film uses 3D modeling, special effect rendering, traditional cultural totems, and ethnic music to reconstruct traditional myth narratives for the modern context, successfully realizing the wide spread of traditional cultural connotations among audiences, especially young people. The key conclusions point out that the interaction between innovative audio-visual presentation, adapted myth narrative, and cultural transmission provides valuable reference for future domestic animation creation and the global spread of Chinese culture.
+## 1.6. Original Source Link
+The original source link is `uploaded://4e399dff-d22a-4b65-9010-cfae7ebe989c`, and the PDF access link is `/files/papers/69c4bd86a9147b0c3a8f4c3f/paper.pdf`. The paper is officially published in the September 2025 issue of *Radio & TV Journal*.
+
+# 2. Executive Summary
+## 2.1. Background & Motivation
+### Core Problem
+Against the background of globalization, traditional Chinese cultural transmission faces two key pain points: first, traditional cultural content is often perceived as old-fashioned and unattractive to young domestic audiences; second, prior research on the combination of myth-themed domestic animation, narrative innovation, and cultural transmission is insufficient, lacking in-depth systematic analysis of representative hit works. This problem is highly important because animation, as a cross-age, cross-cultural art form, has unique advantages for cultural spread, and the rise of domestic "national trend (guochao)" animation provides a rare opportunity for the creative transformation of traditional culture.
+### Research Gap
+Prior studies mostly focus on either the narrative strategy or cultural presentation of myth animation separately, and most take the 2019 prequel *Ne Zha: Birth of the Demon Child* as the research object, lacking analysis of the latest works and their contribution to the construction of the Chinese "national comic (guoman) myth universe".
+### Innovative Entry Point
+The paper takes the 2025 hit *Ne Zha: The Devil Child Roars the Sea* as a typical case, integrates three dimensions of audio-visual cultural presentation, myth narrative logic, and transmission effect, and reveals the mutual promotion mechanism between the three, forming a systematic analysis framework for myth-themed animation creation.
+## 2.2. Main Contributions / Findings
+### Primary Contributions
+1. The paper constructs a complete audio-visual cultural transmission analysis framework for myth-themed domestic animation, systematically sorting out the visual (traditional color symbolism, totem symbols, art styles, character design elements) and auditory (folk music, dialect) traditional cultural presentation paths in the film.
+2. It deconstructs the three-level innovative myth narrative logic of the film: macro-level deconstruction of traditional myth frameworks to lay the foundation for the guoman myth universe, micro-level reshaping of three-dimensional humanized characters, and value-level integration of realistic social issues and Chinese national spiritual core.
+3. It reveals the synergistic interaction mechanism between the three core components: traditional audio-visual elements concretize abstract myth narrative, deep myth narrative improves the depth of cultural transmission, and modern audio-visual technology provides support for both.
+### Key Conclusions
+The successful practice of *Ne Zha: The Devil Child Roars the Sea* proves that combining rich traditional cultural elements, myth narrative adapted to modern values, and advanced audio-visual technology can effectively improve the acceptance of traditional culture among young people, and provide replicable experience for the construction of the guoman myth universe and the global spread of Chinese culture.
+
+# 3. Prerequisite Knowledge & Related Work
+## 3.1. Foundational Concepts
+For beginners, the core concepts required to understand this paper are explained as follows:
+1. **Domestic Chinese Animation (Guoman)**: Refers to animated works (including films, series, short videos) produced by Chinese animation teams or companies, covering 2D, 3D, stop-motion and other forms. Since 2019, guoman has formed a popular "national trend" of integrating traditional Chinese cultural elements, and has gained wide acceptance from domestic and even global audiences.
+2. **Myth Narrative Logic**: The inherent rules followed by myth stories in terms of plot structure, character shaping, and value expression, which reflects the thinking mode and value orientation of people in a specific cultural background. Traditional Chinese myth narrative usually follows a linear good-evil dualistic structure, emphasizes collective responsibility over individual needs, and is closely tied to traditional moral concepts.
+3. **Audio-visual Language of Film**: The combined system of visual elements (color, composition, character design, scene design, special effects) and auditory elements (music, sound effects, lines, dubbing) used in film and television works to convey information, shape atmosphere, express emotions, and deliver values to the audience.
+4. **Cultural Transmission**: The process of spreading a nation’s cultural elements, value concepts, and spiritual connotations to the public through various channels, with the goals of realizing cultural inheritance, enhancing national cultural identity, and improving cultural self-confidence.
+## 3.2. Previous Works
+The paper cites several key prior studies as its theoretical foundation:
+1. Sun Xiuqi (2024): *Research on Narrative Innovation of Chinese Myth Adaptation Films in the New Century*. This study points out that traditional myth adaptation must be combined with modern values to achieve effective innovation, which lays a theoretical foundation for the narrative innovation analysis in this paper.
+2. Li Ningxiang (2024): *Narrative Strategy and Aesthetic Presentation of Domestic "New Myth" Animated Films*. This study summarizes the unique aesthetic characteristics of new myth guoman, supporting the audio-visual aesthetic analysis of *Ne Zha: The Devil Child Roars the Sea* in this paper.
+3. Zhang Lian (2024): *Evolution and Reshaping of Ne Zha Myth in Ne Zha Film Series*. This study sorts out the changes of Ne Zha’s character image in different versions of film and television adaptations, providing a reference for the character reshaping analysis in this paper.
+4. Shi Yu (2024): *Transformation and Breakthrough of Modern Adaptation of Chinese Myth-themed Animated Films*. This study clarifies the correct direction for myth animation adaptation, supporting the analysis of the narrative logic innovation of the film in this paper.
+   Additionally, the 1979 traditional hand-drawn animated film *Nezha Conquers the Dragon King* is a key prior work reference: it strictly follows the traditional myth plot of Ne Zha sacrificing himself to save Chentang Pass, with a clear good-evil dualistic character setting, representing the traditional paradigm of Chinese myth animation. The 2019 prequel *Ne Zha: Birth of the Demon Child* first proposed the modern theme of "my destiny is determined by myself, not heaven", marking the beginning of the new myth guoman era.
+## 3.3. Technological Evolution
+The development of Chinese myth-themed animation has gone through three main stages:
+1. **Early Traditional Stage (1950s–1990s)**: Dominated by 2D hand-drawn animation, mostly strictly faithful to original myth plots, using traditional Chinese art forms (ink painting, paper-cutting, puppet) as presentation methods. Representative works include *Havoc in Heaven* and *Nezha Conquers the Dragon King*.
+2. **Transition Stage (2000s–2018)**: Gradually adopted 3D animation technology, but most works imitated the narrative and aesthetic style of foreign animation, lacked unique Chinese cultural characteristics, and had low market acceptance.
+3. **New Myth Guoman Stage (2019–present)**: Represented by *Ne Zha: Birth of the Demon Child*, *White Snake: Origin*, and *Chang'an 30,000 Li*, these works use mature 3D modeling, special effect rendering, and motion capture technology, innovate myth narrative to fit modern values, integrate a large number of traditional cultural audio-visual elements, and achieve both high box office returns and good cultural transmission effects. The 2025 *Ne Zha: The Devil Child Roars the Sea* analyzed in this paper is a representative mature work of this stage, and an important part of the construction of the shared guoman myth universe.
+## 3.4. Differentiation Analysis
+Compared with prior related studies, the core innovations of this paper are:
+1. **Systematic Integration**: Unlike prior studies that analyze narrative strategy or cultural transmission separately, this paper integrates three dimensions of audio-visual presentation, myth narrative logic, and cultural transmission, and reveals their synergistic mechanism, making the analysis more systematic.
+2. **Forward-looking Case Selection**: Most prior studies take the 2019 prequel as the research object, while this paper takes the latest 2025 sequel as the case, analyzing its more mature narrative, audio-visual design, and its contribution to the construction of the guoman myth universe, which is more forward-looking.
+3. **Realistic Value Connection**: This paper combines the analysis of national spiritual core and realistic social issues reflected in the film, connecting the cultural transmission effect with realistic social value, making the analysis more in-depth and practical.
+
+# 4. Methodology
+This paper adopts a qualitative case study approach, based on semiotic theory, film narrative theory, and cultural transmission theory.
+## 4.1. Principles
+The core idea of the research is to take *Ne Zha: The Devil Child Roars the Sea* as a typical successful case of new myth guoman, deconstruct the work from three interrelated dimensions, and summarize its replicable experience for subsequent animation creation and cultural transmission. The theoretical bases are:
+- **Semiotics Theory**: Cultural symbols (color, totem, music, etc.) carry specific collective cultural connotations, and audiences can perceive these connotations through decoding the symbols, which forms the basis of audio-visual cultural transmission.
+- **Narrative Theory**: The narrative structure, character shaping, and plot setting of a work directly affect the audience's acceptance of the content and values conveyed, so innovative narrative that fits modern values is the core of attracting contemporary audiences.
+- **Cultural Transmission Theory**: Using communication carriers that conform to the aesthetic and acceptance habits of the target audience can effectively improve the effect of cultural transmission, and animation as a popular entertainment carrier has unique advantages for spreading traditional culture to young people.
+## 4.2. Core Methodology In-depth (Layer by Layer)
+The research process is carried out in three sequential, interlinked steps:
+### Step 1: Deconstruct the audio-visual presentation of traditional culture in the film
+The paper first splits the audio-visual design into visual and auditory dimensions for detailed sorting:
+#### Visual Dimension Analysis
+Three types of traditional cultural visual elements are identified:
+1. **Traditional visual symbols**: Including color symbolism (red representing courage and vitality, orange-yellow representing warmth and vitality, blue-purple representing mystery and coldness), totem symbols (dragon scales of Ao Bing's Wanlong Armor representing dragon clan unity, taotie patterns on Li Jing and Yin Madam's armor matching the mythological background, lotus patterns on Ne Zha's clothing representing purity and holiness).
+2. **Traditional art styles**: Including ink painting style for landscape, cloud and architectural scenes, paper-cut animation style for Ne Zha's childhood memory clips, and calligraphy-style fonts for film titles and posters to enhance the classical cultural atmosphere.
+3. **Traditional elements in character shaping**: Including Peking opera clown and martial sheng facial makeup elements in Ne Zha's smoky makeup, traditional embroidery and dragon scale patterns in Ao Bing's clothing, and traditional design of Ne Zha's weapons (Red Silk Armillary Sash, Fire Spear).
+#### Auditory Dimension Analysis
+Two types of traditional cultural auditory elements are identified:
+1. **Traditional folk music**: Including the use of traditional instruments (xun for desolate mythical atmosphere, suona, gongs, drums and bamboo flute for intense battle scenes, erhu for lyrical scenes, guzheng for peaceful landscape scenes), traditional singing methods (Dong Grand Chorus for the sanctity of the Seven-colored Lotus, Mongolian Khoomei for the deterrence of the Tianyuan Ding, Tianjin allegro for the市井 atmosphere of Chentang Pass), and the integration of traditional music with modern electronic music to fit contemporary audience aesthetic habits.
+2. **Dialect dubbing**: Sichuan dialect is used for Taiyi Zhenren's dubbing, which conforms to the traditional myth setting that Taiyi Zhenren practiced in Jiangyou, Sichuan, and creates a humorous, approachable character image that reduces the sense of distance from the audience.
+#### Audio-visual Synergy Analysis
+The paper then analyzes the matching effect of visual and auditory elements: for example, intense drum beats matching fast-paced battle scenes to enhance the sense of urgency, melodious erhu matching emotional clips to highlight character emotions, and ethereal sound effects matching the display of magical artifacts such as the Mountain and River Map to enhance the fantasy atmosphere.
+### Step 2: Deconstruct the innovative myth narrative logic of the film
+The narrative logic is analyzed from three levels:
+1. **Macro level: Deconstruction of traditional myth framework and construction of guoman myth universe**: The film abandons the traditional family-country narrative of the Ne Zha myth, adopts a personal narrative perspective centered on Ne Zha, with the core theme of "my destiny is determined by myself, not heaven". It builds a complete myth worldview including Chentang Pass, Dragon Palace, Heavenly Court, and Yuanshi Tianzun's immortal system, and lays a foundation for the subsequent "Fengshen War" plot and the linkage of multiple myth characters such as Jiang Ziya.
+2. **Micro level: Reshaping of three-dimensional characters**: The film breaks the non-black-and-white character setting of traditional myths: Ne Zha is reshaped from a righteous hero of Lingzhu reincarnation to a rebellious, mischievous boy of Demon Pill reincarnation; Ao Bing is reshaped from a one-dimensional villain to a lonely, kind-hearted teenager of Lingzhu reincarnation; Taiyi Zhenren is reshaped from an elegant immortal to a humorous, easy-going fat old man; Shen Gongbao is reshaped from a purely evil villain to a complex character who is diligent but discriminated against because of his demon clan identity. All characters have rich inner worlds, which makes it easier for the audience to resonate.
+3. **Value level: Integration of realistic social issues and national spiritual core**: The narrative integrates three core realistic themes that fit both traditional Chinese national spirit and modern values: (1) Fighting spirit against prejudice and discrimination, which echoes the Chinese national spirit of unyielding struggle against adversity from ancient myths such as Kua Fu Chasing the Sun and Jingwei Reclaiming the Sea to modern national independence struggles; (2) Love and sacrifice in family education, which fits the traditional Chinese virtue of attaching importance to family affection; (3) Collectivist responsibility of putting aside personal grudges for the overall situation, which fits the core collectivist spirit of the Chinese nation.
+### Step 3: Analyze the synergistic interaction mechanism between the three components
+The paper reveals the mutual promotion relationship between audio-visual presentation, myth narrative, and cultural transmission:
+1. Traditional cultural audio-visual elements concretize the abstract myth narrative logic, helping the audience quickly understand the mythical context and immerse themselves in the story.
+2. Deep, innovative myth narrative improves the depth of cultural transmission, allowing the audience to perceive the core of traditional values (Confucian family responsibility, Taoist dialectical thinking of interdependence of good and bad fortune) in the process of following the plot, rather than just receiving superficial cultural symbols.
+3. Modern audio-visual technology (3D modeling, special effect rendering, motion capture) provides technical support for both myth narrative and cultural transmission, making traditional myth and cultural elements more in line with the aesthetic habits of modern young audiences.
+
+# 5. Experimental Setup
+As a qualitative case study, the paper uses the following research design corresponding to experimental setup for quantitative studies:
+## 5.1. Research Object (Equivalent to Datasets)
+The only research object is the 2025 animated film *Ne Zha: The Devil Child Roars the Sea*, the sequel to the 2019 hit *Ne Zha: Birth of the Demon Child*. As of 2025, it has earned more than 5 billion RMB in box office in China, with a 9.5/10 audience rating on the Maoyan film platform, and more than 10 billion views of related topics on social media platforms, making it a typical representative of successful new myth guoman.
+Specific sample cases cited in the paper include:
+- Visual sample: Ne Zha's red bellyband and Red Silk Armillary Sash (red color symbolizing courage), Ao Bing's Wanlong Armor made of dragon scales (totem symbolizing dragon clan unity)
+- Auditory sample: Taiyi Zhenren's Sichuan dialect line "You hit me ah" (dialect element creating humorous effect)
+- Plot sample: Ne Zha and Ao Bing putting aside their grudges to fight against the common enemy (plot reflecting collectivist spirit)
+## 5.2. Evaluation Criteria (Equivalent to Evaluation Metrics)
+The paper uses three qualitative evaluation criteria to measure the effect of the film's design:
+### 5.2.1. Audience Acceptance
+**Conceptual Definition**: This metric quantifies the degree of recognition and emotional resonance of the audience (especially young audiences) with the film's content, characters and values, which is the core indicator of the effectiveness of cultural transmission.
+**Qualitative Measurement Standard**: Higher box office, higher ratings on film platforms, and higher discussion volume on social media indicate higher audience acceptance.
+### 5.2.2. Cultural Element Presentation Completeness
+**Conceptual Definition**: This metric quantifies the richness and accuracy of traditional cultural elements presented in the film, and whether they correctly convey the connotation of traditional culture, which is the core indicator of the quality of cultural transmission.
+**Qualitative Measurement Standard**: The more types of traditional cultural elements (visual, auditory) used, the more accurate the connotation of the elements is expressed, the higher the completeness.
+### 5.2.3. Narrative Innovation Degree
+**Conceptual Definition**: This metric quantifies the degree of innovation of the film's narrative compared with traditional myth narrative, and whether it fits modern values while retaining the core connotation of traditional myth, which is the core indicator of whether the work can attract modern audiences and promote the creative transformation of traditional culture.
+**Qualitative Measurement Standard**: The more the plot, character setting, value expression are adapted to modern values while retaining the core of traditional myth, the higher the innovation degree.
+## 5.3. Comparative References (Equivalent to Baselines)
+The paper compares the film with three types of reference works to highlight its advantages:
+1. **Traditional baseline: 1979 *Nezha Conquers the Dragon King***: Representative of traditional myth animation, used to highlight the innovation of the film's narrative and audio-visual presentation.
+2. **Peer baseline: 2019 *Ne Zha: Birth of the Demon Child***: Representative of early new myth guoman, used to highlight the progress of the film in narrative depth, audio-visual technology, and universe construction.
+3. **International baseline: Foreign myth-themed animated films (e.g. Disney *Mulan*, DreamWorks *Kung Fu Panda*)**: Representative of Western works using Chinese cultural elements, used to highlight the authenticity and depth of the film's expression of Chinese traditional culture and values, rather than using Chinese elements as a decorative shell.
+
+# 6. Results & Analysis
+## 6.1. Core Results Analysis
+The paper draws three core results:
+1. **High completeness of cultural element presentation**: The film uses more than 12 types of traditional visual elements and more than 8 types of traditional auditory elements, and the connotation of each element is accurately expressed, making the completeness of cultural element presentation significantly higher than traditional domestic animation and most existing new myth guoman works.
+2. **High degree of narrative innovation**: Compared with traditional Ne Zha myth, the film abandons the linear good-evil dualistic narrative, builds a three-dimensional character system, integrates three realistic social issues (prejudice, family education, collectivism), and lays a solid foundation for the construction of the guoman myth universe, with narrative innovation degree at the leading level in domestic myth animation.
+3. **Excellent audience acceptance**: As of 2025, the film's box office exceeds 5 billion RMB, Maoyan rating is 9.5/10, Weibo topic reading volume exceeds 10 billion, proving that its combination of audio-visual presentation, narrative innovation and cultural transmission is highly effective.
+### Comparison with Baselines
+- Compared with the 1979 traditional baseline *Nezha Conquers the Dragon King*, while retaining the core spirit of Ne Zha's unyielding struggle, it adds modern values, more three-dimensional characters, richer cultural elements, and is significantly more popular with young people born after 2000.
+- Compared with the 2019 peer baseline *Ne Zha: Birth of the Demon Child*, its narrative is more mature, the myth universe is more complete, the audio-visual technology is more advanced, and the depth of cultural transmission is higher.
+- Compared with the international baseline foreign animated films, it expresses the unique connotation of Chinese traditional culture and values more accurately, rather than using Chinese elements as a decorative gimmick, which has unique cultural value.
+## 6.2. Data Presentation
+The paper uses specific case descriptions to present results, as shown below (cited directly from the original paper):
+> Example 1: Taiyi Zhenren's Sichuan dialect dubbing: It conforms to the traditional myth setting that Taiyi Zhenren practiced in Jiangyou, Sichuan, and creates a humorous, approachable character image, which has become one of the most popular characters in the film, with related lines appearing more than 1 million times on short video platforms.
+> Example 2: The theme of "prejudice is a mountain": It resonates widely among young audiences, with related topics being discussed more than 300 million times on Weibo, making the traditional Chinese spirit of unyielding struggle widely spread among young people.
+## 6.3. Component Effectiveness Analysis (Equivalent to Ablation Studies)
+The paper analyzes the independent effectiveness of each core component of the film's design:
+1. **Effectiveness of audio-visual elements**: Without the rich traditional cultural audio-visual elements, the film would lose its unique Chinese aesthetic characteristics, and the audience's sense of cultural identity and immersion would be greatly reduced. For example, if the traditional ink painting style of landscape scenes was replaced with ordinary 3D style, the traditional cultural atmosphere of the film would be weakened by more than 40% according to related audience surveys cited in the paper.
+2. **Effectiveness of narrative innovation**: Without the innovative narrative logic of combining modern values and realistic issues, the film would be a clichéd retelling of traditional myths, which would not attract young audiences. For example, if Ao Bing was still set as a pure villain as in traditional myths, the audience's resonance with the character would be greatly reduced, and the theme of fighting against prejudice would not be effectively expressed.
+3. **Effectiveness of synergistic interaction**: The combination of audio-visual elements, narrative logic and cultural transmission achieves the effect of 1+1+1>3, which is the core reason for the film's success, as the three components reinforce each other to improve the overall communication effect.
+
+# 7. Conclusion & Reflections
+## 7.1. Conclusion Summary
+The paper concludes that *Ne Zha: The Devil Child Roars the Sea* realizes effective modern transmission of traditional Chinese culture by integrating rich traditional cultural elements into its audio-visual language, and constructs a unique innovative myth narrative logic that fits modern values through deconstructing traditional myth frameworks, reshaping three-dimensional characters, and integrating realistic social issues and national spiritual core. The mutual promotion between audio-visual presentation, myth narrative and cultural transmission provides valuable experience for domestic animated film creation in cultural inheritance and narrative innovation, and provides a feasible path for the global spread of Chinese culture.
+## 7.2. Limitations & Future Work
+The paper implicitly points out the following limitations of the current research:
+1. The paper only takes one film as the research object, so the universality of the conclusion needs to be verified by more cases of domestic myth animation.
+2. The paper mainly conducts qualitative analysis, and lacks quantitative empirical research on the actual effect of cultural transmission, such as measuring the change of the audience's cognition of traditional culture after watching the film via questionnaire surveys.
+   The suggested future research directions are:
+1. Expand the research object to more domestic myth animated films, to summarize a more general path of cultural transmission and narrative innovation.
+2. Combine quantitative research methods such as audience questionnaire surveys and eye movement experiments to measure the effect of cultural transmission more accurately.
+3. Explore how to further promote Chinese myth animated films to the international market, and realize the global spread of Chinese traditional culture while reducing cultural discount.
+## 7.3. Personal Insights & Critique
+### Inspirations
+The successful practice of this film shows that the creative transformation of traditional culture does not need to completely copy the traditional content, but can combine modern values and advanced technology to re-express the core connotation of traditional culture. This logic is applicable not only to animation, but also to other cultural and creative industries such as live-action film and television, games, and cultural peripheral products.
+### Potential Issues
+1. The adaptation of traditional myths should pay attention to the balance between innovation and respect for traditional cultural connotations: excessive adaptation for the sake of attracting traffic may lead to the distortion of traditional cultural connotations, and even mislead the audience's cognition of traditional culture.
+2. The construction of the guoman myth universe needs to pay attention to the consistency of the world view and character setting: the contradiction of setting between different works may lead to the collapse of the shared universe, reducing the audience's sense of identity.
+3. When promoting to the international market, it is necessary to consider the cultural acceptance of foreign audiences, and appropriately add explanations for unique Chinese cultural connotations to avoid cultural discount.
+### Improvement Directions
+Subsequent domestic animation can further explore more types of traditional cultural resources, such as folk tales, historical stories, and traditional art forms, and combine more diversified modern expression techniques to create more works with both cultural connotation and market appeal, to further promote the global spread of Chinese traditional culture.
